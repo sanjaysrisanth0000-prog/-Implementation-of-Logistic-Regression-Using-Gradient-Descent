@@ -20,10 +20,13 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: 
 RegisterNumber:  
 */
+
 ```
 
 ## Output:
 ![logistic regression using gradient descent](sam.png)
+<img width="833" height="336" alt="image" src="https://github.com/user-attachments/assets/83e4d8cf-1325-431b-9171-8366300a7eb4" />
+
 
 
 ## Result:
